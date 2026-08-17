@@ -128,6 +128,7 @@ https://terraria.wiki.gg/wiki/Tile_IDs
 ````
 
 ![Kill](./screenshots/MoonlordES.png)
+
 ---
 
 ### ⛏️ Mine Mission
@@ -150,6 +151,7 @@ https://terraria.wiki.gg/wiki/Tile_IDs
   }
 ```
 ![mine](./screenshots/GranitoES.png)
+
 ---
 ### 🐇 Find Mission
 ```json
@@ -170,7 +172,9 @@ https://terraria.wiki.gg/wiki/Tile_IDs
 	"OnlyPreHardMode": false
   }
 ```
-![find](./screenshots/ConejitoES.png)---
+![find](./screenshots/ConejitoES.png)
+
+---
 
 ### 💐 Collect Mission
 ```json
