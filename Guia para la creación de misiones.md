@@ -2,6 +2,9 @@
 
 Esta guía explica cómo configurar el archivo `missionslist.json` para añadir contenido personalizado a tu servidor de Terraria.
 
+También puedes usar las misiones creadas por mí en el siguiente archivo:
+[Misiones](missionslist.json)
+
 ---
 
 ## 1. Estructura Básica (Plantilla)
