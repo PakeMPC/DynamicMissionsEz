@@ -43,7 +43,7 @@
 |`/createguild set [1/2] [nombre]`| Crea y vincula una región a un gremio de aventureros.
 |`/removeguild [región]`| Quita el gremio de aventureros de una región conservando la región.
 |`/deleteguild [región]`| Quita el gremio de aventureros de una región eliminando la región.
-|`/mission reload`| Recarga las misiones y la configuración desde el JSON.
+|`/reload`| Recarga las misiones y la configuración desde el JSON.
 
 ---
 
@@ -108,7 +108,7 @@
 | `/createguild set [1/2] [name]` | Creates and links a new region as an Adventurer's Guild. |
 | `/removeguild [region]` | Removes Adventurer's Guild status while keeping the region intact. |
 | `/deleteguild [region]` | Removes Adventurer's Guild status and permanently deletes the region from TShock. |
-| `/mission reload` | Reloads quests and configuration from the JSON files. |
+| `/reload` | Reloads quests and configuration from the JSON files. |
 
 ---
 
