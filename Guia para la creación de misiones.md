@@ -2,7 +2,7 @@
 
 Esta guía explica cómo configurar el archivo `missionslist.json` para añadir contenido personalizado a tu servidor de Terraria.
 
-También puedes usar las misiones creadas por mí en el siguiente archivo:
+También puedes usar las misiones creadas por mí en el siguiente archivo (Traducciones y nuevas misiones son bienvenidas!):
 [Misiones](missionslist.json)
 
 ---
