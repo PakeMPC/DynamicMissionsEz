@@ -77,7 +77,7 @@ El valor va de **1 a 100**. Determina la probabilidad de aparición y el icono v
 * ★★★☆☆ **40 - 64**: 3 Estrellas
 * ★★★★☆ **65 - 84**: 4 Estrellas
 * ★★★★★ **85 - 94**: 5 Estrellas
-* ✮✮✮✮✮ **95 - 100**: 5 Cristales Arcanos  - **Raridad Mítica**
+* ✮✮✮✮✮ **95 - 100**: 5 Cristales Arcanos  - **Rareza Mítica**
 
 ---
 
