@@ -1,7 +1,8 @@
 # Quest Creation Guide for DynamicMissionsEz
 
 This guide explains how to configure the `missionslist.json` file to add custom content to your Terraria server.
-
+You can also use the quests I created in the following file (Spanish, Translations and new quests are welcome!):
+[Misiones](missionslist.json)
 ---
 
 ## 1. Basic Structure (Template)
