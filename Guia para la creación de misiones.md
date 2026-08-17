@@ -69,7 +69,7 @@ https://terraria.wiki.gg/wiki/Buff_IDs
 
 ---
 
-## 4. El Sistema de Raridad (`Rarity`)
+## 4. El Sistema de Rareza (`Rarity`)
 El valor va de **1 a 100**. Determina la probabilidad de aparición y el icono visual en el tablero:
 
 * ★☆☆☆☆ **1 - 19**: 1 Estrella (Muy común)
